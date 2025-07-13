@@ -22,7 +22,7 @@
 
 💻 Passionate about software development and full-stack web technologies
 
-🌐 You can explore all my projects at My Portfolio : <a href= "https://lasantha.me" alt="My Portfolio" /></a> </p>
+🌐 You can explore all my projects at My Portfolio : <a href= "https://lasantha.me" alt="My Portfolio" /> lasantha.me </a> </p>
 
 ✉️ Reach me at: lasanthap256@gmail.com
 
