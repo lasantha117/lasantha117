@@ -14,10 +14,17 @@
 
 <br><br>
 
--  I'm Lasantha Pradeep , final-year student at the **University of Moratuwa**, following the **Information Technology and Management (IT&M)** degree in the **Faculty of Information Technology**.
--  I’m currently learning Python
--  All of my projects are available at [lasantha.me](lasantha.me)
--  How to reach me **lasanthap256@gmail.com**
+👋 I'm Lasantha Pradeep 
+
+🎓 Final-year student at the University of Moratuwa, Sri Lanka
+
+🎓 Pursuing a degree in Information Technology and Management (IT&M) from the Faculty of Information Technology
+
+💻 Passionate about software development and full-stack web technologies
+
+🌐 You can explore all my projects at: lasantha.me
+
+✉️ Reach me at: lasanthap256@gmail.com
 
   
 
